@@ -1,8 +1,7 @@
 #Automated QR Code Generator and viewer
 
 This project contains 2 scripts
-	-qrcodegenerator.py (Python script that does the actual job)
-	-code.sh (code to automate viewing and generating)
+	'qrcodegenerator.py' (Python script that does the actual job) and 'code.sh' (code to automate viewing and generating)
 	
 ##How to Install and Run the Project 
 	

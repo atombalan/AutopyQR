@@ -11,5 +11,7 @@ url = pyqrcode.create(s)
 #Saving the file
 url.svg("qrcode.svg", scale = 8)
 
+#atombalan
+
 
 
